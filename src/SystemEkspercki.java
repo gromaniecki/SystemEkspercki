@@ -1,4 +1,3 @@
-
 import java.util.Scanner;
 import static java.lang.System.*;
 
@@ -122,11 +121,6 @@ public class SystemEkspercki {
     private static void ceraWrazliwa() {
         out.println("Masz cerę wrażliwą");
     }
-
-
-
-
-
 
 }
 
