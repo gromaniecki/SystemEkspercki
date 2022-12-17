@@ -1,5 +1,5 @@
 # SystemEkspercki
-Systemy Eksperckie AHE
+
 Projekt zrobiony na przedomiot 
 
 Inteligentne Systemy Wnioskujące
