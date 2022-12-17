@@ -1,6 +1,6 @@
 # SystemEkspercki
 
-Projekt zrobiony na przedomiot 
+Projekt zrobiony na przedmiot 
 
 Inteligentne Systemy Wnioskujące
 
