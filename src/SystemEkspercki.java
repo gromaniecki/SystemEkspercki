@@ -6,7 +6,7 @@ public class SystemEkspercki {
 
     public static void main(String [] args){
 
-        out.println("Witamy w systemie ekperckim pomagającym wybrać odpowiedni rodzaj twojej cery");
+        out.println("Witamy w systemie ekperckim pomagającym rozpoznać odpowiedni rodzaj twojej cery");
         out.println("Grzegorz Romaniecki - AHE 2022 \n \n");
         out.println("Czy masz cienką skórę?\nproszę o odpowiedź tak lub nie\n");
         boolean response = TakNie();
